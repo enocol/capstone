@@ -536,6 +536,7 @@
     height: 70px;
     background: #f8f8f8;
   }
+
   .menu:active {
     color: blue;
   }
