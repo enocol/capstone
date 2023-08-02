@@ -113,19 +113,11 @@ You can deploy this project using:
 
 👤 **Enoh Collins**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/enocol)
+- Twitter: [@twitterhandle](https://twitter.com/enocol)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/enocol)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,8 +130,6 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
-
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
