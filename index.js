@@ -1,18 +1,21 @@
 const section3 = document.getElementById("speakers");
-console.log(section3);
 const hambugermenu = document.querySelector(".hambuger");
 const menu = document.querySelector(".navbar-list1");
-const closemenu = document.querySelector(".fa-x");
 
 hambugermenu.addEventListener("click", () => {
-  console.log("clicked");
   menu.classList.add("menuvisible");
-  closemenu.style.visibility = "visible";
 });
+
+const icon = `<i class="fa-solid fa-x"></i>`;
+const li = document.createElement("li");
+li.innerHTML = icon;
+menu.append(li);
+
+const closemenu = document.querySelector(".fa-x");
+console.log(closemenu);
 
 closemenu.addEventListener("click", () => {
   menu.classList.remove("menuvisible");
-  closemenu.style.display = "none";
 });
 
 const content = ` <div class="containerB">
