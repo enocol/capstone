@@ -23,7 +23,7 @@
     ],
 
     "linebreak-style": "off",
-    "allowTemplateLiterals": 0,
+    "allowTemplateLiterals": "off",
     "quotes": ["error", "double"],
     "no-shadow": "off",
     "no-param-reassign": "off",
