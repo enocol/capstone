@@ -71,15 +71,20 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://enocol.github.io/capstone/about.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+- create a local directory on your computer.
+- Open a Terminal and run the following code
+
+git clone https://github.come/enocol/capstone.git
+
+Note: You must have git running on your computer.
 
 ### Prerequisites
 
@@ -96,6 +101,7 @@ Install this project with:
 ### Usage
 
 To run the project, execute the following command:
+open the project in your refered code Editors and run a local live server.
 
 ### Run tests
 
@@ -108,8 +114,6 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Enoh Collins**
 
@@ -138,8 +142,6 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
