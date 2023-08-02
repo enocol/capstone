@@ -9,7 +9,7 @@
 .navbar ul {
   display: block;
   position: fixed;
-  top: 0px;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
@@ -91,7 +91,7 @@
   margin-bottom: 10px;
   width: 90%;
   color: #515151;
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
@@ -122,9 +122,7 @@
   letter-spacing: 0.5px;
   display: block;
   width: 100%;
-  font-family: Gothic A1;
   line-height: 0px;
-  letter-spacing: -0.26px;
   padding: 20px 0 0 0;
 }
 
@@ -144,7 +142,7 @@
 .card3 {
   color: #fff;
   text-align: center;
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -157,7 +155,6 @@
 
 .card2 {
   color: #ff5438;
-  font-family: Lato;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -183,13 +180,14 @@
   align-items: center;
   margin: 5px;
 }
+
 .items p {
   width: 80%;
   height: auto;
   padding: 5px;
   margin: 5px;
   color: #fff;
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   font-size: 10.703px;
   font-style: normal;
   font-weight: 700;
@@ -219,7 +217,7 @@
 .section2 h2 {
   margin: 20px 0 20px 0;
   color: #fff;
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -236,7 +234,6 @@
   padding: 20px 20px;
   margin: 5px 0 20px 0;
   justify-content: center;
-  align-items: center;
   gap: 10px;
 }
 
@@ -247,6 +244,13 @@
 .speakers {
   display: flex;
   justify-content: center;
+  height: 80px;
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: -1px;
 }
 
 .speakers1,
@@ -278,7 +282,6 @@
 
 .itemsA h5 {
   color: #000;
-  font-family: Lato;
   font-size: 15px;
   font-style: normal;
   font-weight: 700;
@@ -288,7 +291,6 @@
 
 .itemsA span {
   color: #e32116;
-  font-family: Lato;
   font-size: 15px;
   font-style: normal;
   font-weight: 700;
@@ -299,24 +301,12 @@
 
 .itemsA p {
   color: #000;
-  font-family: Lato;
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
   line-height: 17.078px; /* 189.753% */
   letter-spacing: -0.45px;
   width: 229px;
-}
-
-.speakers {
-  height: 80px;
-  color: #000;
-  font-family: Lato;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 28px; /* 140% */
-  letter-spacing: -1px;
 }
 
 .container5 img {
@@ -344,7 +334,7 @@
 
 .section4 h6 {
   color: #8f8f91;
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   font-size: 30px;
   font-style: normal;
   font-weight: 400;
@@ -408,7 +398,6 @@
     align-items: center;
     flex-direction: row;
     color: #868686;
-    font-family: Lato;
     font-size: 14px;
     font-style: normal;
     font-weight: 800;
@@ -433,8 +422,6 @@
 
   .section2 {
     height: 700px;
-    background: url("./images/pattern_bg.png"),
-      lightgray 0% 0% / 100px 100px repeat, #282b32;
   }
 
   .section2 h2 {
@@ -487,7 +474,7 @@
     letter-spacing: -1.1px;
   }
 
-  .itemsA P {
+  .itemsA p {
     color: #000;
     font-family: "Lato", sans-serif;
     font-size: 14px;

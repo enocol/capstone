@@ -1,3 +1,8 @@
+.body {
+  font-family: "lato", sans-serif;
+  box-sizing: border-box;
+}
+
 .aboutcontainer {
   text-align: center;
   margin: 100px 0 30px 0;
@@ -7,6 +12,7 @@
   align-items: center;
   width: 90%;
 }
+
 .about {
   display: flex;
   flex-direction: column;
@@ -38,7 +44,7 @@
 .email {
   color: #5f5f5f;
   text-align: center;
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   font-size: 17px;
   font-style: normal;
   font-weight: 800;
@@ -50,7 +56,6 @@
 .aboutsection2 h3 {
   color: #2c2c2c;
   text-align: center;
-  font-family: Lato;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -65,7 +70,7 @@
 .aboutsection2 img {
   width: 375px;
   height: 141.715px;
-  border: 1px solid white;
+  border: 1px solid lightgray;
   padding: 10px;
 }
 
@@ -177,6 +182,7 @@
   .containerdiv2 {
     flex-direction: row;
   }
+
   .aboutcontainer {
     width: 60%;
   }
