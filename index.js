@@ -1,7 +1,8 @@
 const section3 = document.getElementById("speakers");
+console.log(section3);
 const hambugermenu = document.querySelector(".hambuger");
 const menu = document.querySelector(".navbar-list1");
-const closemenu = document.querySelector(".close");
+const closemenu = document.querySelector(".fa-x");
 
 hambugermenu.addEventListener("click", () => {
   console.log("clicked");
@@ -11,7 +12,7 @@ hambugermenu.addEventListener("click", () => {
 
 closemenu.addEventListener("click", () => {
   menu.classList.remove("menuvisible");
-  closemenu.style.visibility = "hidden";
+  closemenu.style.display = "none";
 });
 
 const content = ` <div class="containerB">
