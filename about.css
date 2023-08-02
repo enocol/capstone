@@ -65,6 +65,8 @@
 .aboutsection2 img {
   width: 375px;
   height: 141.715px;
+  border: 1px solid white;
+  padding: 10px;
 }
 
 .aboutcontainer2 {
