@@ -12,7 +12,6 @@ li.innerHTML = icon;
 menu.append(li);
 
 const closemenu = document.querySelector(".fa-x");
-console.log(closemenu);
 
 closemenu.addEventListener("click", () => {
   menu.classList.remove("menuvisible");
