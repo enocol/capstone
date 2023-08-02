@@ -33,8 +33,6 @@
 
 # 📖 [The Capstone Project] <a name="Capstone Project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Capstone]** is a project to build a website to show a future Environmental Protection Global submit
 
 ## 🛠 Built With <a name="built-with">Visual Studio</a>
@@ -70,8 +68,6 @@
 - **[Desktop Version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
