@@ -82,12 +82,13 @@
 
 .h1 {
   margin-bottom: 20px;
-  -webkit-background-clip: text;
   background-image: url("images/bg/orangebg.jpg");
-  color: transparent;
   font-weight: 700;
   font-size: 30px;
   background-clip: text;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 
 .duration {
@@ -178,7 +179,6 @@
   flex-grow: 0;
   color: #ff5438;
   padding: 5px;
-  font-family: Lato;
   font-size: 14.271px;
   font-style: normal;
   font-weight: 700;
@@ -188,7 +188,6 @@
 
 .items p {
   color: #fff;
-  font-family: Lato;
   font-size: 10.703px;
   font-style: normal;
   font-weight: 700;
@@ -227,7 +226,6 @@
   flex-direction: column;
   justify-content: center;
   color: #fff;
-  font-family: Lato;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -248,7 +246,7 @@
 
 .speakeritems {
   display: flex;
-  align-items: top;
+  align-items: start;
 }
 
 .itemsA h5 {
@@ -309,7 +307,6 @@
   font-weight: 700;
   line-height: 14px;
   font-size: 9px;
-  line-height: 14px;
   letter-spacing: -0.54px;
 }
 
@@ -324,6 +321,7 @@ hr {
     flex-direction: column;
     margin: 5px;
     align-items: center;
+    height: 100%;
   }
 
   .section2 {
@@ -414,11 +412,6 @@ hr {
     align-items: center;
     justify-content: center;
     width: 70%;
-    justify-content: center;
-  }
-
-  .items {
-    height: 100%;
   }
 
   .items img {
@@ -428,7 +421,6 @@ hr {
 
   .items span {
     color: #ff5438;
-    font-family: Lato;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
@@ -442,7 +434,6 @@ hr {
   .items p {
     color: #fff;
     text-align: center;
-    font-family: Lato;
     font-size: 12px;
     font-style: normal;
     font-weight: 700;
@@ -464,7 +455,6 @@ hr {
 
   .speakers {
     color: #000;
-    font-family: Lato;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -474,7 +464,6 @@ hr {
 
   .itemsA h5 {
     color: #000;
-    font-family: Lato;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
@@ -537,7 +526,7 @@ hr {
   .topic {
     width: 60%;
     color: #515151;
-    font-family: "Lato";
+    font-family: "Lato", sans-serif;
     font-size: 25.49px;
     font-style: normal;
     font-weight: 400;
