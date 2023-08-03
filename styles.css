@@ -86,7 +86,6 @@
   font-weight: 700;
   font-size: 30px;
   background-clip: text;
-  background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
 }
@@ -518,6 +517,7 @@ hr {
     height: 200px;
     margin-top: 20px;
   }
+
   hr {
     width: 5%;
     color: red;
